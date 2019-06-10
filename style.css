@@ -1,0 +1,136 @@
+body {
+    font: 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: .3em;
+    top: 25%;
+    background: linear-gradient(to right, #84e1e4, #f7ff86);
+}
+
+h1{
+    font: 400 3em 'Raleway',sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    margin-top: 10%;
+}
+
+h2{
+    font: 900 .5em 'Raleway',sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: .01em;
+}
+
+
+#section1 {
+    border-bottom: solid 10px rgba(255, 255, 255, .5);
+    font-family: 'Times New Roman', Times, serif;
+    align-content: left;
+    margin: 30px;
+    position: relative;
+    padding:5%;
+
+}
+#fr1 {
+    width: 90%;
+    height:200px;
+    align-self: auto;
+
+
+}
+#section2 {
+    display: inline-flex;
+    padding: 2%;
+    border-bottom: solid 10px rgba(255, 255, 255, 0.589);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    align-content: center;
+    height:200px;
+    margin: 30px;
+    width: 80%;
+}
+.incons{
+    display: inline;
+
+    position: relative;
+    margin: 5px;
+    float: left;
+    padding: 5%;
+
+}
+
+#section3 {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    padding: 2%;
+}
+#filtro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: right;
+    padding: 2%;
+}
+
+#categorias{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    margin: 10%;
+}
+
+table, td, th {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 2%;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+
+
+  #img_gal1{
+    display: block;
+    width: 90%;
+    padding: 5%;
+    align-content: center;
+}
+
+
+#contacto{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(145, 145, 145, 0.774);
+    text-align: center;
+    margin: 10%;
+    align-content: center;
+    padding: 10px;
+    
+}
+
+#tablecont{
+    font-size: 20px;
+    color: rgb(126, 126, 126);
+    text-align: center;
+   align-content: center;
+}
+
+.proceso{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: coral;
+    padding: 5%
+}
+#img_ale{
+    border-radius: 50%;
+}
